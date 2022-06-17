@@ -1,0 +1,101 @@
+[
+{
+  "model": "student_tracker.student",
+  "pk": 1,
+  "fields":
+  {
+    "name": "Fred Flinstone",
+    "age": 45,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 2,
+  "fields":
+  {
+    "name": "Wilma Flintstone",
+    "age": 35,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 3,
+  "fields":
+  {
+    "name": "Peebles Flintstone",
+    "age": 21,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 4,
+  "fields":
+  {
+    "name": "Barney Rubble",
+    "age": 43,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 5,
+  "fields":
+  {
+    "name": "Betty Rubble",
+    "age": 32,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 6,
+  "fields":
+  {
+    "name": "Bam Bam Rubble",
+    "age": 21,
+    "home_group": "B103"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 7,
+  "fields":
+  {
+    "name": "George Slate",
+    "age": 34,
+    "home_group": "C232"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 8,
+  "fields":
+  {
+    "name": "Sam Slagheap",
+    "age": 55,
+    "home_group": "C232"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 9,
+  "fields":
+  {
+    "name": "Perr Masonry",
+    "age": 44,
+    "home_group": "C232"
+  }
+},
+{
+  "model": "student_tracker.student",
+  "pk": 10,
+  "fields":
+  {
+    "name": "Joe Rockhead",
+    "age": 55,
+    "home_group": "C232"
+  }
+}]

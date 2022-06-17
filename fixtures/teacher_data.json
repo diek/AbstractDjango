@@ -1,0 +1,31 @@
+[
+{
+  "model": "student_tracker.teacher",
+  "pk": 1,
+  "fields":
+  {
+    "name": "Tony Soprano",
+    "age": 43,
+    "hire_date": "2010-09-02"
+  }
+},
+{
+  "model": "student_tracker.teacher",
+  "pk": 2,
+  "fields":
+  {
+    "name": "Silvio Dante",
+    "age": 39,
+    "hire_date": "2009-09-02"
+  }
+},
+{
+  "model": "student_tracker.teacher",
+  "pk": 3,
+  "fields":
+  {
+    "name": "Paulie Gualtieri",
+    "age": 41,
+    "hire_date": "2012-09-02"
+  }
+}]
